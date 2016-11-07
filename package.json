@@ -1,0 +1,25 @@
+{
+  "name": "prerobowit",
+  "version": "1.0.0",
+  "description": "proximamente robowit page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseAngelChepo/prerobowitpage.git"
+  },
+  "keywords": [
+    "prerobowit"
+  ],
+  "author": "robowit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseAngelChepo/prerobowitpage/issues"
+  },
+  "homepage": "https://github.com/JoseAngelChepo/prerobowitpage#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}

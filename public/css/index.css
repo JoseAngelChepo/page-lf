@@ -1,0 +1,61 @@
+body {
+  font-family: 'Amatic SC', cursive !important;
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+.superior {
+  background-color: #2bc9be;
+  width: 100%
+}
+.superior p {
+  margin: 0;
+  font-size: 5em;
+  text-align: center;
+}
+#info {
+  display: inline-block;
+  font-size: 2.3em;
+}
+section a img {
+  display: inline-block;
+  position: relative;
+  bottom: 5px;
+  margin-right: 5px;
+}
+a {
+  text-decoration: none;
+}
+.contacto {
+  display: block;
+  margin: auto;
+  width: 280px;
+  padding-bottom: 30px;
+}
+.inferior {
+  background-color: #00fdc8;
+  width: 100%;
+  padding-bottom: 0;
+}
+.logo {
+  width: 90%;
+  height: 90%;
+  transition: width 3s, height 3s, margin 3s;
+  margin: 3vh auto;
+  display: block;
+}
+.logo:hover {
+  width: 50%;
+  height: 50%;
+  margin: 2vh auto;
+}
+#prox {
+  display: block;
+  text-align: right;
+  font-size: 3em;
+  margin: 0;
+  padding-top: 20px;
+  padding-bottom: 600px;
+  padding-right: 20px;
+}
